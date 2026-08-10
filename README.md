@@ -30,6 +30,7 @@
   ![](https://streak-stats.demolab.com/?user=mathieurand&theme=transparent&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mathieurand&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 <br><br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
 
 <br><br>
