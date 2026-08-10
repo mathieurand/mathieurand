@@ -29,5 +29,8 @@ Here are some ideas to get you started:
   />
 </picture>
 
-<center>![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical)</center>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_PSEUDO&theme=radical" alt="Streak" />
+</div>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+d'IA;Toujours+en+train+d'apprendre)
