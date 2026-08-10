@@ -35,5 +35,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical" alt="Streak" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=40&fontColor=fff&animation=fadeIn" />
+</div>
+
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieurand&layout=compact&theme=radical)
