@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Tongasoa%20&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/octocat-1786363840255.png" width="300" />
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div> 
@@ -31,10 +36,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
 
 <br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/octocat-1786363840255.png" width="300" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/globe.gif" width="300" />
