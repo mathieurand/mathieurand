@@ -27,7 +27,7 @@
 <br><br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical" alt="Streak" />
-  <img src="https://streak-stats.demolab.com?user=mathieurand&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" />
 </div>
 <br><br>
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
