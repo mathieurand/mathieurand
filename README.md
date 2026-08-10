@@ -33,5 +33,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/matrix.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/globe.gif" width="300" />
 </div>
