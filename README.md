@@ -27,7 +27,7 @@
 <br><br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical" alt="Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieurand&layout=compact&theme=radical&exclude_repo=nom-du-repo)
 </div>
 <br><br>
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
