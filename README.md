@@ -33,5 +33,9 @@
 <br><br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/octocat-1786363840255.png" width="300" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/globe.gif" width="300" />
 </div>
