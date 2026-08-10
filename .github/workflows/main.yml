@@ -1,5 +1,9 @@
 name: Generate Snake
 
+outputs: |
+  dist/github-contribution-grid-snake.svg
+  dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange,red&color_dots=firebrick,orange,gold
+
 on:
   schedule:
     - cron: "0 */6 * * *"  # toutes les 6h
