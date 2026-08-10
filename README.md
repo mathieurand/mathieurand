@@ -28,3 +28,5 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical)
