@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieurand&theme=radical" alt="Streak" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieurand&layout=compact&theme=radical)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HawlSome&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 <br><br>
