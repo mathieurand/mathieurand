@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mathieurand&theme=radical&row=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieurand&layout=compact&theme=radical)
