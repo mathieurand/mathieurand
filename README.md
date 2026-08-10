@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenu
 
 <!--
 **mathieurand/mathieurand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=mathieurand&color=blue)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mathieurand&theme=radical&row=1)
