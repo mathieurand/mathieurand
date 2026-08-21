@@ -17,10 +17,9 @@
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/mathieurand/mathieurand/output/github-contribution-grid-snake.svg"
     />
-    <img
-      alt="snake en feu"
-      src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/github-contribution-grid-snake.svg"
-    />
+  
+    <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+  
   </picture>
 </div>
 <br><br>
