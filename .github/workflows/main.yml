@@ -1,34 +1,28 @@
-name: Generate Snake
-
+name: generate animation
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main
-
-permissions:
-  contents: write
+      - Master
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Génération Snake (Dark)
+      - name: generate github-contribution-grid-snake-dark.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=orange,red,darkred&color_dots=%23fff5cc,%23ffcc00,%23ff6600,%23ff0000,%238b0000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange,red,darkred&color_dots=%23fff5cc,%23ffcc00,%23ff6600,%23ff0000,%238b0000
-
-      - name: Push output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Génération Pacman
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
