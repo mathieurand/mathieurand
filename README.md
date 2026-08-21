@@ -18,9 +18,10 @@
       srcset="https://raw.githubusercontent.com/mathieurand/mathieurand/output/github-contribution-grid-snake.svg"
     />  
   </picture>
+  <br><br>
   <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </div>
-<br><br>
+<br><br><br>
 <div align="center">
   
   ![](https://streak-stats.demolab.com/?user=mathieurand&theme=transparent&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mathieurand&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
