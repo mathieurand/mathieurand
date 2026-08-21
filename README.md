@@ -16,11 +16,9 @@
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/mathieurand/mathieurand/output/github-contribution-grid-snake.svg"
-    />
-  
-    <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-  
+    />  
   </picture>
+  <img src="https://raw.githubusercontent.com/MorenoLopez/MorenoLopez/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </div>
 <br><br>
 <div align="center">
