@@ -19,7 +19,6 @@
     />  
   </picture>
   <br><br>
-  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </div>
 <br><br><br>
 <div align="center">
